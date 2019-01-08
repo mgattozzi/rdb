@@ -3,6 +3,7 @@ name = "rdb"
 version = "0.1.0"
 authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
 edition = "2018"
+description = "A wrapper to make debugging Rust pleasant"
 repository = "https://github.com/mgattozzi/rdb.git"
 homepage = "https://github.com/mgattozzi/rdb"
 documentation = "https://docs.rs/rdb/"
