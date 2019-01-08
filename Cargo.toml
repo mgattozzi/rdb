@@ -1,5 +1,5 @@
 [package]
-name = "rdb"
+name = "rdb_tool"
 version = "0.1.0"
 authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
 edition = "2018"
@@ -14,3 +14,7 @@ license = "MIT/Apache-2.0"
 
 [dependencies]
 structopt = "*"
+
+[[bin]]
+name = "rdb"
+path = "src/main.rs"

@@ -14,7 +14,7 @@ Currently only `LLDB`.
 ## Getting Started
 
 ```bash
-cargo install rdb
+cargo install rdb_tool
 ```
 
 Build your code once in debug:

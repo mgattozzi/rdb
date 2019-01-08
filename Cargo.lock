@@ -65,7 +65,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rdb"
+name = "rdb_tool"
 version = "0.1.0"
 dependencies = [
  "structopt 0.2.14 (registry+https://github.com/rust-lang/crates.io-index)",
