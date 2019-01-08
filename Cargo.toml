@@ -1,0 +1,15 @@
+[package]
+name = "rdb"
+version = "0.1.0"
+authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/mgattozzi/rdb.git"
+homepage = "https://github.com/mgattozzi/rdb"
+documentation = "https://docs.rs/rdb/"
+readme = "README.md"
+keywords = ["lldb", "debugger", "cli", "tool"]
+categories = ["command-line-utilities"]
+license = "MIT/Apache-2.0"
+
+[dependencies]
+structopt = "*"
